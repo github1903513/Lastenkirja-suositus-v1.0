@@ -41,7 +41,10 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## Learn More
 this is Homepage:
 ![image](https://github.com/github1903513/Lastenkirja-suositus-v1.0/blob/main/img/home.png)
+
 This is search page:
 ![image](https://github.com/github1903513/Lastenkirja-suositus-v1.0/blob/main/img/search.png)
+
 This is booklist page:
 ![image](https://github.com/github1903513/Lastenkirja-suositus-v1.0/blob/main/img/booklist.png)
+
