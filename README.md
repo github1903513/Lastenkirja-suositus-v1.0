@@ -39,7 +39,9 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
 ## Learn More
-
-https://github.com/github1903513/Lastenkirja-suositus-v1.0/blob/main/img/home.png
-https://github.com/github1903513/Lastenkirja-suositus-v1.0/blob/main/img/search.png
-https://github.com/github1903513/Lastenkirja-suositus-v1.0/blob/main/img/booklist.png
+this is Homepage:
+![image](https://github.com/github1903513/Lastenkirja-suositus-v1.0/blob/main/img/home.png)
+This is search page:
+![image](https://github.com/github1903513/Lastenkirja-suositus-v1.0/blob/main/img/search.png)
+This is booklist page:
+![image](https://github.com/github1903513/Lastenkirja-suositus-v1.0/blob/main/img/booklist.png)
