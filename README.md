@@ -13,7 +13,7 @@ http://www.penguinrandomhouse.biz/webservices/rest/
 * Router
 * Javascript
 
-### Problems`
+### Problems
 * Need to learn React architecture, Router, Asynchronous JavaScript, styled-components.
 * Need to learn how to parse XML into javaScript objects.
 
